@@ -23,7 +23,7 @@ Any and all original code associated with this workshop is availble under the fo
 
 * [GNU Affero General Public License v3 or any later version](https://www.gnu.org/licenses/agpl-3.0.html)
 
-See `COPYING.md` for full license text.
+Some full license texts are available under `licenses/`.
 
 ## Setup 🗃️
 
