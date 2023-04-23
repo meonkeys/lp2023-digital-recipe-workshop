@@ -35,7 +35,7 @@ I hope you're hungry, this is going to be delicious!
 * Focus on data storage, software, some text conversion.
 * Table of contents on left.
 * Workshop plan:
-    * 15min welcome, lead-up to [Data](#data)
+    * 15min welcome, lead-in to [Data](#data)
     * 15min for [Data](#data)
     * 15min for [Software](#software)
     * 5min break
@@ -46,7 +46,7 @@ I hope you're hungry, this is going to be delicious!
     * All material will be posted online.
 * Work along, if you like.
     * I chose only widely-available free/libre prequisites.
-    * minimum: text editor, python3, jq, a shell (command line)
+    * minimum: text editor, python3, a command line shell
 * Ask questions / make suggestions at any time during the workshop.
     * Something I could or should add? Say so.
     * Should I repeat, slow down, or speed up?
@@ -58,7 +58,7 @@ I hope you like fried pickles! 🥒
 
 ## Goals 📈
 
-Focus on cooking fun/healthy/simple meals for and with others, not tech. Tech only enables cooking. To cook we need recipes and practice. 
+Focus on cooking fun/healthy/simple meals for and with others, not tech. Tech only enables cooking. To cook we need recipes and practice.
 
 1. Immortal - readable and editable, always and forever.
 2. Share-able - close second since cooking with and for others is better.
@@ -287,8 +287,8 @@ This could be more robustly implemented as a [pandoc filter](https://pandoc.org/
     * GNU/Linux operating system
     * Python 3 programming language
     * vim-markdown plugin (optional)
-    * Bash shell (optional? - FIXME)
-    * jq (optional? - FIXME)
+    * command-line shell (I used Bash)
+    * jq (optional)
     * latest stable Nextcloud (v26 aka "Hub 4") with [cookbook app](https://apps.nextcloud.com/apps/cookbook)
 * [JSON recipe schema](https://schema.org/Recipe)
 * [email Adam](mailto:haircut+immortalcookbook@gmail.com)
@@ -300,5 +300,5 @@ This could be more robustly implemented as a [pandoc filter](https://pandoc.org/
     * <https://www.grassrootsrecipes.com/links.html>
 
 <!--
-vim: conceallevel=2 linebreak nowrap number
+vim: conceallevel=2 linebreak number wrap
 -->
