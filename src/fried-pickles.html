@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<!--
+Recipe JSON embedded in an HTML file. Can be imported into the Nextcloud Cookbook app.
+
+The JSON was originally converted from `src/fried-pickles.md` using `src/md-recipe-to-json.py`. I manually added the "image" property so looks fancy after import.
+-->
+
+<head>
+  <meta charset="utf-8">
+  <title>Fried Pickles</title>
+  <script type="application/ld+json">
+    {
+      "name": "Fried Pickles",
+      "description": "These fried pickles are a delicious disaster. I dare you to eat just one.",
+      "recipeIngredient": [
+        "dill hamburger pickle chips",
+        "1 cup vegetable oil",
+        "1 cup corn meal",
+        "1 cup flour",
+        "1 teaspoon old bay seasoning",
+        "½ cup ranch dressing or preferred dipping sauce"
+      ],
+      "recipeInstructions": [
+        "Preheat oil in a fryer or pan at medium-high heat. Use enough oil to cover the pickle chips as they fry.",
+        "Combine dry ingredients in a bowl, bag, or close-able container. Coat the pickle chips and place in the hot oil.",
+        "Fry until batter is lightly browned and crispy. Drain and let cool for a few minutes until warm and safe to eat.",
+        "Enjoy!"
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Fried_pickles_closeup.jpg/512px-Fried_pickles_closeup.jpg",
+      "@context": "http://schema.org",
+      "@type": "Recipe"
+    }
+  </script>
+</head>
+
+<body>
+  <p>View source.</p>
+  <p>Recipe is in a <a href="https://en.wikipedia.org/wiki/JSON-LD" target="_blank">JSON-LD</a> &lt;script&gt; element.</p>
+  <p>The JSON data follows the <a href="https://schema.org/Recipe" target="_blank">schema.org Recipe type</a>.</p>
+  <p>Here's the same recipe converted from Markdown to HTML using <a href="https://pandoc.org/" target="_blank">Pandoc</a> (except that I manually added the image):</p>
+  <hr/>
+  <p><a href="https://commons.wikimedia.org/wiki/File:Fried_pickles_closeup.jpg" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Fried_pickles_closeup.jpg/640px-Fried_pickles_closeup.jpg" alt="closeup of fried pickles"/></a></p>
+  <h1 id="fried-pickles">Fried Pickles</h1>
+  <h2 id="description">Description</h2>
+  <p>These fried pickles are a delicious disaster. I dare you to eat just one.</p>
+  <h2 id="ingredients">Ingredients</h2>
+  <ul>
+    <li>dill hamburger pickle chips</li>
+    <li>1 cup vegetable oil</li>
+    <li>1 cup corn meal</li>
+    <li>1 cup flour</li>
+    <li>1 teaspoon old bay seasoning</li>
+    <li>½ cup ranch dressing or preferred dipping sauce</li>
+  </ul>
+  <h2 id="directions">Directions</h2>
+  <ol type="1">
+    <li>Preheat oil in a fryer or pan at medium-high heat. Use enough oil to cover the pickle chips as they fry.</li>
+    <li>Combine dry ingredients in a bowl, bag, or close-able container. Coat the pickle chips and place in the hot oil.</li>
+    <li>Fry until batter is lightly browned and crispy. Drain and let cool for a few minutes until warm and safe to eat.</li>
+    <li>Enjoy!</li>
+  </ol>
+</body>
+
+</html>
