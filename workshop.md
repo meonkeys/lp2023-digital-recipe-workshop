@@ -53,6 +53,7 @@ I hope you're hungry, this is going to be delicious!
     * It's OK if we disagree.
     * If I feel like the workshop is veering off-topic or grinding to a halt I'll initiate a pause in questions or suggestions.
     * I'll be asking _you_ questions, too!
+* Be kind. 🐝
 
 I hope you like fried pickles! 🥒
 
