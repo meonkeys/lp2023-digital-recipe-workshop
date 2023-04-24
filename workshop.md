@@ -69,7 +69,7 @@ Focus on cooking fun/healthy/simple meals for and with others, not tech. Tech on
 These are certainly fun, useful, nice to have, exercises for later.
 
 * Convert between imperial and metric measurements.
-* Double or halve recipe yield / servings.
+* Double or halve recipe yield / servings (scaling).
 * Auto-generate shopping list.
 * Auto-generate nutrition info.
 * Beautiful style.
@@ -83,7 +83,7 @@ These are certainly fun, useful, nice to have, exercises for later.
 
 ## Data 📋
 
-Our MLP (Minimum Lovable Recipe):
+Our MLR (Minimum Lovable Recipe):
 
 1. Description
 1. Ingredients
@@ -206,7 +206,7 @@ Primary storage is SQLite databases.
 
 Exports to INI files.
 
-* 👍 Easy to work with from code.
+* 👍 Almost as easy as JSON to code against.
 * 👎 Not human readable.
 
 ## Software 🖱️
