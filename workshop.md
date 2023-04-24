@@ -46,7 +46,7 @@ I hope you're hungry, this is going to be delicious!
     * All material will be posted online.
 * Work along, if you like.
     * I chose only widely-available free/libre prequisites.
-    * minimum: text editor, python3, a command line shell
+    * Minimum: text editor, python3, a command line shell.
 * Ask questions / make suggestions at any time during the workshop.
     * Something I could or should add? Say so.
     * Should I repeat, slow down, or speed up?
@@ -265,15 +265,16 @@ This could be more robustly implemented as a [pandoc filter](https://pandoc.org/
 ## Discussion 🗣️
 
 * What ideas did you get today for things you might try?
-    * in software
-    * in the kitchen
-    * both
+    * in software,
+    * in the kitchen,
+    * or both?
 * What other free/libre recipe management software have you used or written?
 * What digital recipe tools do you find most useful for:
     * cooking
     * sharing
     * collaborating
 * Are you cooking for one, a few, or many?
+* How sensitive are your recipes to precise measurements?
 * When you go to cook, how do you actually find and use the recipe you need?
 * What features do you want/need in recipe management software?
 
